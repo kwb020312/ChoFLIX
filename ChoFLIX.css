@@ -1,5 +1,5 @@
 * {
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
 }
 
 .home {
@@ -15,29 +15,70 @@ video {
   position: absolute;
   top: 0;
   left: 0;
+  width: calc(100% - 100px);
+  padding: 10px 50px;
 }
 
 .header {
-  position: absolute;
   display: flex;
 }
 
 .logo {
   color: red;
+  margin-right: 40px;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 36px;
 }
 
 .nav {
+  display: flex;
   color: white;
+  line-height: 36px;
 }
 
 .nav-item {
+  padding: 0 10px;
 }
 
 .menu {
   display: flex;
   margin-left: auto;
   color: white;
+  line-height: 36px;
 }
 
 .menu-item {
+  padding: 0 10px;
+}
+
+.banner {
+  color: white;
+}
+
+.title {
+  font-size: 72px;
+}
+
+.badge {
+  font-size: 18px;
+  font-weight: 900;
+  padding: 15px 0;
+}
+
+.description {
+  width: 40%;
+}
+
+.buttons {
+  display: flex;
+}
+
+.white-button {
+  color: black;
+  background-color: white;
+  margin-right: 10px;
+}
+
+.gray-button {
 }
