@@ -18,3 +18,7 @@
   muted
 ></video>
 ```
+
+<img src="https://user-images.githubusercontent.com/46777310/187224563-91e81385-a8c9-414e-8615-09726072510a.png">
+
+간단한 UI를 구현해보며 넷플릭스 UI를 따라 구현해보았음
